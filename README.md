@@ -83,17 +83,18 @@ Olá! Seja bem-vindo ao meu GitHub.
 
 ---
 
-# 🏆 Conquistas no GitHub
+<h2>🏆 Conquistas no GitHub</h2>
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Pablo2511338&theme=radical&no-frame=true&no-bg=true&margin-w=8"
-  alt="Troféus do GitHub"
-  width="100%"
-/>
+  <img
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Pablo2511338&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+    alt="Conquistas do GitHub"
+    width="100%"
+  />
 
 </div>
+
 
 ---
 
