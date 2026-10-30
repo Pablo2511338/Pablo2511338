@@ -86,6 +86,61 @@ Versionamento de código, documentação, organização de projetos, testes e bo
 
 ---
 
+## 📈 Minha evolução no GitHub
+
+Utilizo o GitHub para organizar meus trabalhos, acompanhar minha evolução técnica e registrar as atividades desenvolvidas ao longo dos estudos.
+
+### 📊 Visão geral
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.shion.dev/api?username=Pablo2511338&theme=tokyonight&show_icons=true&hide_border=true&locale=pt-br&include_all_commits=true&count_private=false"
+  alt="Estatísticas do GitHub"
+  width="49%"
+/>
+
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pablo2511338&theme=tokyonight&layout=compact&hide_border=true&locale=pt-br"
+  alt="Linguagens mais utilizadas"
+  width="49%"
+/>
+
+</div>
+
+### 🔥 Histórico de contribuições
+
+Acompanho minha atividade na plataforma como parte do meu desenvolvimento, mantendo um registro dos trabalhos e exercícios realizados.
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=Pablo2511338&theme=tokyonight&hide_border=true&locale=pt_BR"
+  alt="Histórico de contribuições"
+  width="70%"
+/>
+
+</div>
+
+### 💻 Repositórios públicos
+
+Os repositórios disponíveis no meu perfil reúnem trabalhos acadêmicos, exercícios de programação e atividades práticas.
+
+<div align="center">
+
+<a href="https://github.com/Pablo2511338?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/EXPLORAR_REPOSITÓRIOS-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD"
+    alt="Explorar repositórios públicos"
+  />
+</a>
+
+</div>
+
+---
+
+---
+
 ## 📂 Projetos em destaque
 
 Aqui estão alguns trabalhos que desenvolvi durante meus estudos e que escolhi compartilhar publicamente.
