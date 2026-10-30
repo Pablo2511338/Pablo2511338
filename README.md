@@ -48,20 +48,111 @@ Tecnologias que utilizo ou estou estudando:
 
 ---
 
-## 📚 Áreas de estudo
+<h2>📚 Áreas de estudo</h2>
 
-Atualmente, venho desenvolvendo meus conhecimentos em diferentes áreas da tecnologia, combinando conteúdos acadêmicos com exercícios e atividades práticas.
+<p>
+  Atualmente, venho desenvolvendo meus conhecimentos em diferentes áreas da tecnologia, combinando estudos teóricos com aplicações práticas.
+</p>
 
-| Área | Conhecimentos em desenvolvimento |
-| :--- | :--- |
-| 💻 **Fundamentos de Programação** | Algoritmos, lógica, estruturas de controle, funções e ponteiros. |
-| 🌐 **Desenvolvimento Web** | HTML, CSS, JavaScript, construção de interfaces e interatividade. |
-| ⚙️ **Backend e APIs** | Organização de aplicações, lógica de negócio e integração entre sistemas. |
-| 🗄️ **Banco de Dados** | Modelagem conceitual e lógica, normalização, SQL e SQLite. |
-| 🧠 **Inteligência Artificial** | Fundamentos de IA, automação e integração com aplicações. |
-| 🔧 **Engenharia e Ferramentas** | Git, GitHub, documentação, testes e organização de código. |
+<br>
 
-> O foco é desenvolver uma boa base técnica e compreender como diferentes tecnologias se conectam na construção de software.
+<table width="100%">
+  <tr>
+    <td width="75" align="center">
+      <h1>💻</h1>
+    </td>
+    <td>
+      <h3>Fundamentos de Programação</h3>
+      <p>
+        Lógica, algoritmos, estruturas de controle, funções,
+        ponteiros e resolução de problemas.
+      </p>
+      <sub>🔹 C • Python • JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="75" align="center">
+      <h1>🌐</h1>
+    </td>
+    <td>
+      <h3>Desenvolvimento Web</h3>
+      <p>
+        Criação de interfaces, estruturação de páginas,
+        estilização e interatividade.
+      </p>
+      <sub>🔹 HTML • CSS • JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="75" align="center">
+      <h1>⚙️</h1>
+    </td>
+    <td>
+      <h3>Backend e APIs</h3>
+      <p>
+        Organização de aplicações, lógica de negócio,
+        comunicação entre sistemas e integração de serviços.
+      </p>
+      <sub>🔹 Python • APIs REST</sub>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="75" align="center">
+      <h1>🗄️</h1>
+    </td>
+    <td>
+      <h3>Banco de Dados</h3>
+      <p>
+        Modelagem conceitual e lógica, relacionamentos,
+        normalização e consultas.
+      </p>
+      <sub>🔹 SQL • SQLite • DER</sub>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="75" align="center">
+      <h1>🧠</h1>
+    </td>
+    <td>
+      <h3>Inteligência Artificial</h3>
+      <p>
+        Fundamentos de IA, automação e possibilidades
+        de integração com aplicações.
+      </p>
+      <sub>🔹 Python • IA aplicada</sub>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="75" align="center">
+      <h1>🔧</h1>
+    </td>
+    <td>
+      <h3>Engenharia e Ferramentas</h3>
+      <p>
+        Versionamento, documentação, organização do código,
+        testes e manutenção de software.
+      </p>
+      <sub>🔹 Git • GitHub • VS Code</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
