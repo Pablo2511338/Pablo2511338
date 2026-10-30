@@ -11,17 +11,17 @@
 </div>
 
 ---
-
 ## 👋 Sobre mim
 
 Olá! Seja bem-vindo ao meu GitHub.
 
-Estudo na **área de tecnologia**, com foco em programação e desenvolvimento de software. Tenho aprofundado meus conhecimentos em linguagens, estruturação de aplicações e bancos de dados, procurando entender como essas ferramentas são usadas na prática.
+Atualmente, sou estudante na área de tecnologia e venho construindo meus conhecimentos em programação e desenvolvimento de software. Ao longo dos estudos, tenho explorado diferentes linguagens, ferramentas e conceitos, sempre procurando entender como tudo funciona e como aplicar esse conhecimento na prática.
 
-Aqui compartilho trabalhos e atividades que escolhi tornar públicos. Também utilizo o GitHub para organizar meus estudos e acompanhar minha evolução técnica.
+Gosto de aprender experimentando, desenvolvendo soluções e buscando entender o que pode ser melhorado. Acredito que programar vai além de escrever código: envolve raciocínio, organização e a capacidade de encontrar soluções para diferentes problemas.
 
-Meu foco é continuar desenvolvendo experiência e me preparar para oportunidades profissionais na área, no Brasil e no exterior.
+Por aqui, compartilho alguns dos trabalhos e exercícios que desenvolvo, além de registrar parte da minha evolução na área. É também uma forma de acompanhar meu progresso e reunir experiências que fazem parte da minha formação.
 
+Profissionalmente, estou focado em fortalecer minha base técnica, ampliar meus conhecimentos e ganhar experiência no desenvolvimento de software, me preparando para oportunidades no mercado de tecnologia, tanto no Brasil quanto no exterior.
 ---
 
 ## 🛠️ Tecnologias e ferramentas
