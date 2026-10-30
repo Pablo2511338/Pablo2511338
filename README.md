@@ -22,6 +22,7 @@ Gosto de aprender experimentando, desenvolvendo soluções e buscando entender o
 Por aqui, compartilho alguns dos trabalhos e exercícios que desenvolvo, além de registrar parte da minha evolução na área. É também uma forma de acompanhar meu progresso e reunir experiências que fazem parte da minha formação.
 
 Profissionalmente, estou focado em fortalecer minha base técnica, ampliar meus conhecimentos e ganhar experiência no desenvolvimento de software, me preparando para oportunidades no mercado de tecnologia, tanto no Brasil quanto no exterior.
+
 ---
 
 ## 🛠️ Tecnologias e ferramentas
