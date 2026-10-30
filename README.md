@@ -84,8 +84,6 @@ Versionamento de código, documentação, organização de projetos, testes e bo
 
 ---
 
----
-
 ## 📈 Minha evolução no GitHub
 
 Utilizo o GitHub para organizar meus trabalhos, acompanhar minha evolução técnica e registrar as atividades desenvolvidas ao longo dos estudos.
@@ -136,8 +134,6 @@ Os repositórios disponíveis no meu perfil reúnem trabalhos acadêmicos, exerc
 </a>
 
 </div>
-
----
 
 ---
 
