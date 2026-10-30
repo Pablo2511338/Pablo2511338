@@ -51,129 +51,18 @@ Tecnologias que utilizo ou estou estudando:
 <h2>📚 Áreas de estudo</h2>
 
 <p>
-  Atualmente, venho desenvolvendo meus conhecimentos em diferentes áreas da tecnologia, combinando estudos teóricos com aplicações práticas.
+  Atualmente, venho desenvolvendo meus conhecimentos
+  em diferentes áreas da tecnologia, combinando
+  estudos teóricos com aplicações práticas.
 </p>
 
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="75" align="center">
-      <h1>💻</h1>
-    </td>
-    <td>
-      <h3>Fundamentos de Programação</h3>
-      <p>
-        Lógica, algoritmos, estruturas de controle, funções,
-        ponteiros e resolução de problemas.
-      </p>
-      <sub>🔹 C • Python • JavaScript</sub>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="75" align="center">
-      <h1>🌐</h1>
-    </td>
-    <td>
-      <h3>Desenvolvimento Web</h3>
-      <p>
-        Criação de interfaces, estruturação de páginas,
-        estilização e interatividade.
-      </p>
-      <sub>🔹 HTML • CSS • JavaScript</sub>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="75" align="center">
-      <h1>⚙️</h1>
-    </td>
-    <td>
-      <h3>Backend e APIs</h3>
-      <p>
-        Organização de aplicações, lógica de negócio,
-        comunicação entre sistemas e integração de serviços.
-      </p>
-      <sub>🔹 Python • APIs REST</sub>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="75" align="center">
-      <h1>🗄️</h1>
-    </td>
-    <td>
-      <h3>Banco de Dados</h3>
-      <p>
-        Modelagem conceitual e lógica, relacionamentos,
-        normalização e consultas.
-      </p>
-      <sub>🔹 SQL • SQLite • DER</sub>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="75" align="center">
-      <h1>🧠</h1>
-    </td>
-    <td>
-      <h3>Inteligência Artificial</h3>
-      <p>
-        Fundamentos de IA, automação e possibilidades
-        de integração com aplicações.
-      </p>
-      <sub>🔹 Python • IA aplicada</sub>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="75" align="center">
-      <h1>🔧</h1>
-    </td>
-    <td>
-      <h3>Engenharia e Ferramentas</h3>
-      <p>
-        Versionamento, documentação, organização do código,
-        testes e manutenção de software.
-      </p>
-      <sub>🔹 Git • GitHub • VS Code</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Pablo2511338&theme=tokyonight&hide_border=true&show_icons=true&locale=pt-br&include_all_commits=true&count_private=false" alt="Estatísticas públicas do GitHub" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pablo2511338&theme=tokyonight&hide_border=true&layout=compact&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios públicos" width="49%" />
-
-  <br />
-  <br />
-
-  <img src="https://streak-stats.demolab.com/?user=Pablo2511338&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" width="70%" />
+  <img
+    src="./areas-de-estudo.png"
+    width="100%"
+    alt="Áreas de estudo em tecnologia"
+  />
 </div>
-
-## 📈 Atividade recente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablo2511338&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividades recentes no GitHub" width="100%" />
-</div>
-
 
 ---
 
