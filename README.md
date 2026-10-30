@@ -50,13 +50,18 @@ Tecnologias que utilizo ou estou estudando:
 
 ## 📚 Áreas de estudo
 
-| Área | O que venho estudando |
+Atualmente, venho desenvolvendo meus conhecimentos em diferentes áreas da tecnologia, combinando conteúdos acadêmicos com exercícios e atividades práticas.
+
+| Área | Conhecimentos em desenvolvimento |
 | :--- | :--- |
-| **Desenvolvimento de software** | Organização do código, lógica e implementação de funcionalidades |
-| **Backend e APIs** | Estrutura de aplicações e integração entre componentes |
-| **Bancos de dados** | Modelagem, SQL e persistência de informações |
-| **Inteligência artificial** | Fundamentos e aplicações em software |
-| **Ferramentas de desenvolvimento** | Git, versionamento e boas práticas |
+| 💻 **Fundamentos de Programação** | Algoritmos, lógica, estruturas de controle, funções e ponteiros. |
+| 🌐 **Desenvolvimento Web** | HTML, CSS, JavaScript, construção de interfaces e interatividade. |
+| ⚙️ **Backend e APIs** | Organização de aplicações, lógica de negócio e integração entre sistemas. |
+| 🗄️ **Banco de Dados** | Modelagem conceitual e lógica, normalização, SQL e SQLite. |
+| 🧠 **Inteligência Artificial** | Fundamentos de IA, automação e integração com aplicações. |
+| 🔧 **Engenharia e Ferramentas** | Git, GitHub, documentação, testes e organização de código. |
+
+> O foco é desenvolver uma boa base técnica e compreender como diferentes tecnologias se conectam na construção de software.
 
 ---
 
