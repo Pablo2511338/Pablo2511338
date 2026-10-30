@@ -78,20 +78,33 @@ Tecnologias que utilizo ou estou estudando:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablo2511338&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividades recentes no GitHub" width="100%" />
 </div>
 
----
-
-## 📂 Trabalhos públicos
-
-Neste perfil, mantenho atividades, exercícios e outros trabalhos que decidi compartilhar publicamente.
-
-<div align="center">
-  <a href="https://github.com/Pablo2511338?tab=repositories">
-    <img src="https://img.shields.io/badge/VER_REPOSITÓRIOS_PÚBLICOS-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios públicos" />
-  </a>
-</div>
 
 ---
 
-<div align="center">
-  <sub>Obrigado pela visita.</sub>
-</div>
+## 📂 Projetos em destaque
+
+Aqui estão alguns trabalhos que desenvolvi durante meus estudos e que escolhi compartilhar publicamente.
+
+### 🔹 [Troca de Valores com Ponteiros em C](https://github.com/Pablo2511338/troca-valores-ponteiros-c)
+
+Exercício prático sobre manipulação de variáveis e utilização de ponteiros na linguagem C.
+
+![C](https://img.shields.io/badge/Linguagem_C-00599C?style=flat-square&logo=c&logoColor=white)
+![Ponteiros](https://img.shields.io/badge/Ponteiros-30363D?style=flat-square)
+
+### 🔹 [Caixa Registradora em C](https://github.com/Pablo2511338/Caixa-Registradora-Em-C)
+
+Projeto desenvolvido em C, aplicando conceitos de programação na construção de um sistema de caixa registradora.
+
+![C](https://img.shields.io/badge/Linguagem_C-00599C?style=flat-square&logo=c&logoColor=white)
+![Programação](https://img.shields.io/badge/Lógica_de_Programação-30363D?style=flat-square)
+
+### 🔹 [Trattos — Banco de Dados](https://github.com/Pablo2511338/trattos-banco-de-dados)
+
+Trabalho acadêmico voltado à modelagem e organização de dados em uma estrutura de banco de dados.
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+![Modelagem](https://img.shields.io/badge/Modelagem_de_Dados-30363D?style=flat-square)
+
+---
+
