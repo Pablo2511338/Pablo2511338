@@ -48,21 +48,41 @@ Tecnologias que utilizo ou estou estudando:
 
 ---
 
-<h2>📚 Áreas de estudo</h2>
+## 📚 Áreas de estudo
 
-<p>
-  Atualmente, venho desenvolvendo meus conhecimentos
-  em diferentes áreas da tecnologia, combinando
-  estudos teóricos com aplicações práticas.
-</p>
+Atualmente, venho desenvolvendo meus conhecimentos em diferentes áreas da tecnologia, combinando estudos teóricos com aplicações práticas.
 
-<div align="center">
-  <img
-    src="./areas-de-estudo.png"
-    width="100%"
-    alt="Áreas de estudo em tecnologia"
-  />
-</div>
+### 💻 Fundamentos de Programação
+Lógica, algoritmos, estruturas de controle, funções, ponteiros e resolução de problemas.
+
+**Tecnologias:** `C` • `Python` • `JavaScript`
+
+### 🌐 Desenvolvimento Web
+Criação de interfaces, estruturação de páginas, estilização e desenvolvimento de funcionalidades interativas.
+
+**Tecnologias:** `HTML` • `CSS` • `JavaScript`
+
+### ⚙️ Backend e APIs
+Organização de aplicações, lógica de negócio, comunicação entre sistemas e integração de serviços.
+
+**Tecnologias:** `Python` • `APIs REST`
+
+### 🗄️ Banco de Dados
+Modelagem conceitual e lógica, relacionamentos entre entidades, normalização, consultas e gerenciamento de informações.
+
+**Tecnologias:** `SQL` • `SQLite` • `DER`
+
+### 🧠 Inteligência Artificial
+Estudo dos fundamentos de IA, automação de processos e possibilidades de integração com aplicações de software.
+
+**Tecnologias:** `Python` • `IA aplicada`
+
+### 🔧 Engenharia e Ferramentas
+Versionamento de código, documentação, organização de projetos, testes e boas práticas de desenvolvimento.
+
+**Ferramentas:** `Git` • `GitHub` • `VS Code`
+
+---
 
 ---
 
